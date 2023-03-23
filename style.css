@@ -1,0 +1,25 @@
+body {
+    min-height: 2700px;
+    background-image: url(img/memphis-mini.webp);
+}
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #8a8a8a;
+}
+#projects {
+    background-color: #acacac;
+}
+section {
+    padding-top: 5rem;
+}
+
+h1{
+    font-family: arial;
+    font-size: 20px;
+    color:black;
+}
+
+h2{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
